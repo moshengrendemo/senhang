@@ -404,9 +404,9 @@ h1, h2, h3, h4, h5, h6 {
   outline: none;
   cursor: pointer;
 }
-
+/**页面缩小后的右上角的图标*/
 #mobile-nav-toggle i {
-  color: #fff;
+  color: #000;
 }
 
 @media (max-width: 768px) {
