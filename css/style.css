@@ -1299,7 +1299,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #000;
+  background: #555666;
   padding: 0 0 30px 0;
   color: #eee;
   font-size: 14px;
@@ -1445,6 +1445,15 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #13a456;
 }
 */
+.code{
+ margin-left: 30px;
+margin-bottom: 30px;
+}
+.code-icon{
+   width:130px;
+  height:130px;
+}
+
 #footer .copyright {
   text-align: center;
   padding-top: 30px;
